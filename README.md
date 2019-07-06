@@ -34,7 +34,7 @@ Reference Index of Human Genome :
 * [ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/technical/reference/]
 
 ---
-#### NB: The script won't work with the required files in the same folder.
+#### NB: The script won't work without the required files in the same folder.
 * _Required FASTA file: genome.fa_
 * _VCF file: Any Variant file which reference the input fasta file._
 ---
