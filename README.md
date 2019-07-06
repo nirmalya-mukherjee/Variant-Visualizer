@@ -35,4 +35,14 @@ Reference Index of Human Genome :
 
 ---
 
+###### Opening Interface with all the Chromosomes
+![Chromosome Interface](https://github.com/nirmalya-mukherjee/Variant-Visualizer/blob/master/pics/chromosome%20interface.png)
+
+###### Interface to zoom in, zoom out and hover over the variants with a miniature view
+![Interface](https://github.com/nirmalya-mukherjee/Variant-Visualizer/blob/master/pics/Hypo%201.png)
+
+###### Actual position with hovering and a miniature view
+![Interface Actual positions](https://github.com/nirmalya-mukherjee/Variant-Visualizer/blob/master/pics/Actual%20position%201.png)
+
+###### This is the first version of the tool developed by Nirmalya Mukherjee.
 
